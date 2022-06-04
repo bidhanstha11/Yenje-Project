@@ -1,0 +1,94 @@
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: 15px;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+body {
+    background-image: url(../images/background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center {
+    text-align: center;
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.center2 {
+    text-align: center;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.imagess {
+    width: 100%;
+    width: 305px;
+    height: 230px;
+    overflow: hidden;
+    object-fit: cover;
+}
+
+.content p {
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+}
+
+.footballers {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+
+.footer-here {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.table {
+    text-align: center;
+}
+
+.footer-here1 {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.table-striped {
+    background-color: black;
+    color: white;
+}
+
+.on-hover {
+    background-color: black;
+    color: white;
+}
+
+.on-hover:hover {
+    background-color: grey;
+}
+
+.collapsere {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.padding-here {
+    padding: 100px;
+}
